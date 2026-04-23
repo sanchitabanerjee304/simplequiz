@@ -1,38 +1,31 @@
 # 🧠 Quiz App
 
 A simple and interactive **Quiz Application** built using **HTML, CSS, and JavaScript**.
-This project dynamically displays questions, checks answers, and shows the final score.
+This app displays multiple-choice questions, checks answers instantly, and shows the final score.
 
 ---
 
-# Features
+## 🚀 Features
 
 * 📌 Multiple-choice questions
-* 🎯 Instant answer validation (correct/incorrect)
+* ✅ Instant answer validation
 * ➡️ Next question navigation
 * 🔁 Restart quiz functionality
 * 📊 Final score display
-* ⚡ Dynamic UI (questions & options generated using JavaScript)
+
+---
+
+## 📸 Screenshot
+
+![Quiz App](quiz.png)
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **HTML** – Structure of the app
-* **CSS** – Styling and layout
-* **JavaScript** – Logic and interactivity
-
----
-
-## 📂 Project Structure
-
-```
-quiz-app/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
-```
+* **HTML** – Structure
+* **CSS** – Styling
+* **JavaScript** – Logic & interactivity
 
 ---
 
@@ -40,8 +33,8 @@ quiz-app/
 
 1. Clone the repository:
 
-   ```
-   git clone https://github.com/your-username/quiz-app.git
+   ```bash
+   git clone https://github.com/sanchitabanerjee304/simplequiz.git
    ```
 
 2. Open the project folder
@@ -50,48 +43,29 @@ quiz-app/
 
 ---
 
-## 🧩 How It Works
+## 📂 Project Structure
 
-* Questions are stored in an **array of objects**
-* JavaScript dynamically:
-
-  * Loads questions
-  * Creates answer buttons
-  * Checks correct answers
-* Tracks score using variables
-* Displays final result after all questions
-
----
-
-## 📸 Demo
-
-(Add screenshots here after running your project)
+```bash
+simplequiz/
+ ├── index.html
+ ├── style.css
+ ├── script.js
+ ├── README.md
+ └── quiz.png
+```
 
 ---
 
 ## 💡 Future Improvements
 
-* ⏱️ Add timer for each question
+* ⏱️ Add timer
 * 📊 Add progress bar
-* 🎨 Improve UI/UX design
-* 🔊 Add sound effects
-* 📱 Make it fully responsive
-* ⚛️ Convert into React app
+* 🎨 Improve UI/UX
+* 📱 Make fully responsive
 
 ---
 
-## 🙌 Learning Outcome
-
-Through this project, I learned:
-
-* DOM manipulation
-* Event handling
-* Working with arrays & objects
-* Building logic step-by-step
-
----
-
-##  Author
+## 👩‍💻 Author
 
 **Sanchita Banerjee**
 
